@@ -1,0 +1,35 @@
+body{
+		background-color:yellow;
+		color: #800080;
+}
+hr{
+	border-style: dotted;
+}
+*{
+	padding:0px;
+	
+}
+#interlinks{
+	
+	width:175px;
+	float:left;
+	
+}
+#paragraph{
+	margin-left:206px;
+}
+ul{
+		list-style: none;
+}
+ul li{
+	background-color: #ffffff;
+	padding:2px;
+	margin:3px;
+	border-right: 10px solid #000000;
+}
+a{
+	text-decoration:none;
+}
+h2{
+	font-family:Arial;
+}
